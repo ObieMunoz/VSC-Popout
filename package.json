@@ -9,9 +9,6 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onCommand:popout.helloWorld"
-  ],
   "main": "./extension.js",
   "repository": {
     "type": "git",
