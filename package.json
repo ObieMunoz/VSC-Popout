@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/ObieMunoz/VSC-Popout"
   },
-  "publisher": "Obie Munoz",
+  "publisher": "ObieMunoz",
   "license": "MIT",
   "contributes": {
     "commands": [
