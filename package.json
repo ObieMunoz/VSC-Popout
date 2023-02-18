@@ -13,6 +13,10 @@
     "onCommand:popout.helloWorld"
   ],
   "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ObieMunoz/VSC-Popout"
+  },
   "contributes": {
     "commands": [
       {
