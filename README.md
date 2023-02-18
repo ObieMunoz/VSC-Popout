@@ -6,6 +6,6 @@ Popout allows users to open a selected file in a new instance of Visual Studio C
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.2
 
 Initial release of Popout
