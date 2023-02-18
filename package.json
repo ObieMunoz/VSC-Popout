@@ -2,7 +2,7 @@
   "name": "popout",
   "displayName": "Popout",
   "description": "Adds a context menu option to open a file or tab in a new VS Code instance.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.75.0"
   },
